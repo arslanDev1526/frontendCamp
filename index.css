@@ -1,0 +1,29 @@
+*{ 
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.line{ 
+    border: solid 1px red;
+    height: 10px;
+    width: 450px;
+    border-radius: 10px;
+}
+
+.sub-line { 
+    height: 8px;
+    width: 225px;
+    border-radius: 10px;
+    background-color: blue;
+    
+}
+
+.circule{ 
+   width: 20px;
+   border: solid 1px red;
+   margin-left: 250px;
+   height: 30px;
+   border-radius: 50%;
+   margin-bottom: 30px;
+}
